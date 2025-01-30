@@ -17,3 +17,6 @@ A basic calculator app built with HTML, CSS, and JavaScript. Perform basic arith
 - Enter numbers and select an operation (e.g., +, -, *, /).
 - Click the "=" button to see the result.
 - Use the "AC" button to clear the screen.
+
+## Demo
+Try out the live demo of the app here: <a href="https://gregoriusgrd.github.io/calculator/">Calculator Demo</a>
